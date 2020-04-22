@@ -1,0 +1,24 @@
+.container {
+  max-width: 960px;
+  margin-top: 70px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid black;
+  padding-left: 40px;
+}
+
+.title {
+  margin-bottom: -10px;
+}
+
+.author {
+  margin-top: -10px;
+}
+
+.elementsdiv {
+  margin-top: 100px;
+}
+
+.elementdiv {
+  margin-top: 50px;
+}
