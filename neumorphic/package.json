@@ -1,0 +1,19 @@
+{
+  "name": "webments-neumorphic",
+  "version": "1.0.0",
+  "description": "Webments Neumorphic design library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webments/webments-neumorphic.git"
+  },
+  "author": "The Webments Authors",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/webments/webments-neumorphic/issues"
+  },
+  "homepage": "https://github.com/webments/webments-neumorphic#readme"
+}
