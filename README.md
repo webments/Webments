@@ -8,14 +8,6 @@
 
 ## Framework Index
 
-### [glow.css](https://github.com/Webments/glow.css) ([Preview](https://webments.github.io/glow.css/))
-
-![npm](https://img.shields.io/npm/v/webments-glow)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-glow)
-[![GitHub stars](https://img.shields.io/github/stars/webments/glow.css?style=social)](https://github.com/Webments/glow.css)
-[![GitHub forks](https://img.shields.io/github/forks/webments/glow.css?style=social)](https://github.com/Webments/glow.css/fork)<br>
-A glow design based framework.
-
 ### [neumorphic.css](https://github.com/Webments/neumorphic.css) ([Preview](https://webments.github.io/neumorphic.css/))
 
 ![npm](https://img.shields.io/npm/v/webments-neumorphic)
@@ -31,22 +23,6 @@ Neumorphic is a futuristic design metaphor and language.
 [![GitHub stars](https://img.shields.io/github/stars/webments/paper.css?style=social)](https://github.com/Webments/paper.css)
 [![GitHub forks](https://img.shields.io/github/forks/webments/paper.css?style=social)](https://github.com/Webments/paper.css/fork)<br>
 A paper design based framework.
-
-### [shadow.css](https://github.com/Webments/shadow.css) ([Preview](https://webments.github.io/shadow.css/))
-
-![npm](https://img.shields.io/npm/v/webments-shadow)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-shadow)
-[![GitHub stars](https://img.shields.io/github/stars/webments/shadow.css?style=social)](https://github.com/Webments/shadow.css)
-[![GitHub forks](https://img.shields.io/github/forks/webments/shadow.css?style=social)](https://github.com/Webments/shadow.css/fork)<br>
-A shadow design based framework.
-
-### [skeumorphic.css](https://github.com/Webments/skeumorphic.css) ([Preview](https://webments.github.io/skeumorphic.css/))
-
-![npm](https://img.shields.io/npm/v/webments-skeumorphic)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-skeumorphic)
-[![GitHub stars](https://img.shields.io/github/stars/webments/skeumorphic.css?style=social)](https://github.com/Webments/skeumorphic.css)
-[![GitHub forks](https://img.shields.io/github/forks/webments/skeumorphic.css?style=social)](https://github.com/Webments/skeumorphic.css/fork)<br>
-A skeumorphic design based framework.
 
 ### [flat.css](https://github.com/Webments/flat.css) ([Preview](https://webments.github.io/flat.css/))
 
