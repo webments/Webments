@@ -9,6 +9,7 @@
 ## Framework Index
 
 ### [glow.css](https://github.com/Webments/glow.css) ([Preview](https://webments.github.io/glow.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-glow)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-glow)
 [![GitHub stars](https://img.shields.io/github/stars/webments/glow.css?style=social)](https://github.com/Webments/glow.css)
@@ -16,6 +17,7 @@
 A glow design based framework.
 
 ### [neumorphic.css](https://github.com/Webments/neumorphic.css) ([Preview](https://webments.github.io/neumorphic.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-neumorphic)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-neumorphic)
 [![GitHub stars](https://img.shields.io/github/stars/webments/neumorphic.css?style=social)](https://github.com/Webments/neumorphic.css)
@@ -23,6 +25,7 @@ A glow design based framework.
 Neumorphic is a futuristic design metaphor and language.
 
 ### [paper.css](https://github.com/Webments/paper.css) ([Preview](https://webments.github.io/paper.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-paper)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-paper)
 [![GitHub stars](https://img.shields.io/github/stars/webments/paper.css?style=social)](https://github.com/Webments/paper.css)
@@ -30,6 +33,7 @@ Neumorphic is a futuristic design metaphor and language.
 A paper design based framework.
 
 ### [shadow.css](https://github.com/Webments/shadow.css) ([Preview](https://webments.github.io/shadow.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-shadow)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-shadow)
 [![GitHub stars](https://img.shields.io/github/stars/webments/shadow.css?style=social)](https://github.com/Webments/shadow.css)
@@ -37,6 +41,7 @@ A paper design based framework.
 A shadow design based framework.
 
 ### [skeumorphic.css](https://github.com/Webments/skeumorphic.css) ([Preview](https://webments.github.io/skeumorphic.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-skeumorphic)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-skeumorphic)
 [![GitHub stars](https://img.shields.io/github/stars/webments/skeumorphic.css?style=social)](https://github.com/Webments/skeumorphic.css)
@@ -44,6 +49,7 @@ A shadow design based framework.
 A skeumorphic design based framework.
 
 ### [flat.css](https://github.com/Webments/flat.css) ([Preview](https://webments.github.io/flat.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-flat)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-flat)
 [![GitHub stars](https://img.shields.io/github/stars/webments/flat.css?style=social)](https://github.com/Webments/flat.css)
@@ -51,6 +57,7 @@ A skeumorphic design based framework.
 A flat design based framework.
 
 ### [fluent.css](https://github.com/Webments/fluent.css) ([Preview](https://webments.github.io/fluent.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-oneui)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-fluent)
 [![GitHub stars](https://img.shields.io/github/stars/webments/fluent.css?style=social)](https://github.com/Webments/fluent.css)
@@ -58,6 +65,7 @@ A flat design based framework.
 Fluent Design is Microsoft's design language.
 
 ### [simplistika.css](https://github.com/Webments/simplistika.css) ([Preview](https://webments.github.io/simplistika.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-simplistika)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-simplistika)
 [![GitHub stars](https://img.shields.io/github/stars/webments/simplistika.css?style=social)](https://github.com/Webments/simplistika.css)
@@ -65,6 +73,7 @@ Fluent Design is Microsoft's design language.
 Simplistika is <a href="https://github.com/mercode-org">Mercode's</a> design language.
 
 ### [oneui.css](https://github.com/Webments/oneui.css) ([Preview](https://webments.github.io/oneui.css/))
+
 ![npm](https://img.shields.io/npm/v/webments-oneui)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-oneui)
 [![GitHub stars](https://img.shields.io/github/stars/webments/oneui.css?style=social)](https://github.com/Webments/oneui.css)
@@ -72,6 +81,7 @@ Simplistika is <a href="https://github.com/mercode-org">Mercode's</a> design lan
 One UI is Samsung's design language.
 
 ### Your own framework can be here!
+
 [See details.](#ownframework)
 
 ## How to use
@@ -81,15 +91,19 @@ All frameworks are available for usage and customization on your own projects. Y
 ## Contributing
 
 ### Contributions to existing frameworks
-All frameworks/repositories under this organization is open to your contributions. 
+
+All frameworks/repositories under this organization is open to your contributions.
 You can
+
 - follow up the to-do's and bugs via issues
 - submit your own issues (bug reports and feature requests)
 - fork and submit pull requests with your improvements.
 
 ### <a name="ownframework"></a>Contributions with your own framework
+
 You can
-- [submit your already existing framework to the Webments](https://github.com/Webments/submission/issues/new?assignees=&labels=&template=submit-existing-framework.md&title=) organization and develop it under us 
+
+- [submit your already existing framework to the Webments](https://github.com/Webments/submission/issues/new?assignees=&labels=&template=submit-existing-framework.md&title=) organization and develop it under us
 - [suggest a new framework idea](https://github.com/Webments/submission/issues/new?assignees=&labels=&template=submit-framework-idea.md&title=) (only suggestion for us to work on)
 - [suggest a new framework and work on it with us](https://github.com/Webments/submission/issues/new?assignees=&labels=&template=submit-framework-idea-to-work-with-us.md&title=)
 
