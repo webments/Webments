@@ -8,22 +8,6 @@
 
 ## Framework Index
 
-### [neumorphic.css](https://github.com/Webments/neumorphic.css) ([Preview](https://webments.github.io/neumorphic.css/))
-
-![npm](https://img.shields.io/npm/v/webments-neumorphic)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-neumorphic)
-[![GitHub stars](https://img.shields.io/github/stars/webments/neumorphic.css?style=social)](https://github.com/Webments/neumorphic.css)
-[![GitHub forks](https://img.shields.io/github/forks/webments/neumorphic.css?style=social)](https://github.com/Webments/neumorphic.css/fork)<br>
-Neumorphic is a futuristic design metaphor and language.
-
-### [paper.css](https://github.com/Webments/paper.css) ([Preview](https://webments.github.io/paper.css/))
-
-![npm](https://img.shields.io/npm/v/webments-paper)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-paper)
-[![GitHub stars](https://img.shields.io/github/stars/webments/paper.css?style=social)](https://github.com/Webments/paper.css)
-[![GitHub forks](https://img.shields.io/github/forks/webments/paper.css?style=social)](https://github.com/Webments/paper.css/fork)<br>
-A paper design based framework.
-
 ### [flat.css](https://github.com/Webments/flat.css) ([Preview](https://webments.github.io/flat.css/))
 
 ![npm](https://img.shields.io/npm/v/webments-flat)
@@ -40,13 +24,13 @@ A flat design based framework.
 [![GitHub forks](https://img.shields.io/github/forks/webments/fluent.css?style=social)](https://github.com/Webments/fluent.css/fork)<br>
 Fluent Design is Microsoft's design language.
 
-### [simplistika.css](https://github.com/Webments/simplistika.css) ([Preview](https://webments.github.io/simplistika.css/))
+### [neumorphic.css](https://github.com/Webments/neumorphic.css) ([Preview](https://webments.github.io/neumorphic.css/))
 
-![npm](https://img.shields.io/npm/v/webments-simplistika)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-simplistika)
-[![GitHub stars](https://img.shields.io/github/stars/webments/simplistika.css?style=social)](https://github.com/Webments/simplistika.css)
-[![GitHub forks](https://img.shields.io/github/forks/webments/simplistika.css?style=social)](https://github.com/Webments/simplistika.css/fork)<br>
-Simplistika is <a href="https://github.com/mercode-org">Mercode's</a> design language.
+![npm](https://img.shields.io/npm/v/webments-neumorphic)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-neumorphic)
+[![GitHub stars](https://img.shields.io/github/stars/webments/neumorphic.css?style=social)](https://github.com/Webments/neumorphic.css)
+[![GitHub forks](https://img.shields.io/github/forks/webments/neumorphic.css?style=social)](https://github.com/Webments/neumorphic.css/fork)<br>
+Neumorphic is a futuristic design metaphor and language.
 
 ### [oneui.css](https://github.com/Webments/oneui.css) ([Preview](https://webments.github.io/oneui.css/))
 
@@ -55,6 +39,22 @@ Simplistika is <a href="https://github.com/mercode-org">Mercode's</a> design lan
 [![GitHub stars](https://img.shields.io/github/stars/webments/oneui.css?style=social)](https://github.com/Webments/oneui.css)
 [![GitHub forks](https://img.shields.io/github/forks/webments/oneui.css?style=social)](https://github.com/Webments/oneui.css/fork)<br>
 One UI is Samsung's design language.
+
+### [paper.css](https://github.com/Webments/paper.css) ([Preview](https://webments.github.io/paper.css/))
+
+![npm](https://img.shields.io/npm/v/webments-paper)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-paper)
+[![GitHub stars](https://img.shields.io/github/stars/webments/paper.css?style=social)](https://github.com/Webments/paper.css)
+[![GitHub forks](https://img.shields.io/github/forks/webments/paper.css?style=social)](https://github.com/Webments/paper.css/fork)<br>
+A paper design based framework.
+
+### [simplistika.css](https://github.com/Webments/simplistika.css) ([Preview](https://webments.github.io/simplistika.css/))
+
+![npm](https://img.shields.io/npm/v/webments-simplistika)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-simplistika)
+[![GitHub stars](https://img.shields.io/github/stars/webments/simplistika.css?style=social)](https://github.com/Webments/simplistika.css)
+[![GitHub forks](https://img.shields.io/github/forks/webments/simplistika.css?style=social)](https://github.com/Webments/simplistika.css/fork)<br>
+Simplistika is <a href="https://github.com/mercode-org">Mercode's</a> design language.
 
 ### Your own framework can be here!
 
@@ -87,10 +87,10 @@ You can
 
 The basic structure is based on repositories. Every repository contain the files for a single design language and a README file which briefly explains the design language and the files themselves.
 
-### HTML folder
+### Base repository
 
-The HTML repository has the most basic style, using plain HTML and CSS styles and are the base file for other design languages. Other repositories use these files as base to themselves and updates made to the contents of this folder are also synced with other repositories (e.g. main.css).
+The base repository has the most basic style, using plain HTML and CSS styles and are the base file for other design languages. Other repositories use these files as base to themselves and updates made to the contents of this folder are also synced with other repositories (e.g. main.css).
 
-## Word terminology
+## Name terminology
 
 Web + Elements = **Webments**
